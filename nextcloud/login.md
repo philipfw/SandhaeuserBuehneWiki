@@ -17,4 +17,5 @@ Automatisch generierte Beschreibung](../.gitbook/assets/0%20%281%29.tif)
 Automatisch generierte Beschreibung](../.gitbook/assets/1%20%288%29.png)
 
 * Dies kannst du mit einem Klick auf X oben rechts verwerfen. Danach bist du in der Benutzeroberfläche
+* Fertig :\)
 
