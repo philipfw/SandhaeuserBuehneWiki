@@ -1,4 +1,4 @@
-# Dashboard
+# Das Kontrollzentrum
 
 1. Ins Dashboard einloggen ![](../.gitbook/assets/0%20%288%29.png)
 2. Beiträge --&gt; \(Presse\)Veröffentlichungen für den Blog erstellen

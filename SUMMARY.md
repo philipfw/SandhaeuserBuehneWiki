@@ -12,8 +12,8 @@
 
 ## WordPress
 
-* [Login](wordpress/login.md)
-* [Dashboard](wordpress/dashboard.md)
+* [Login in das Kontrollzentrum](wordpress/login.md)
+* [Das Kontrollzentrum](wordpress/dashboard.md)
 * [Beiträge erstellen / bearbeiten](wordpress/beitraege-erstellen-bearbeiten.md)
 * [Seiten erstellen / bearbeiten](wordpress/seiten-erstellen-bearbeiten.md)
 
