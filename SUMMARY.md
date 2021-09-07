@@ -17,10 +17,10 @@
 * [Beiträge erstellen / bearbeiten](wordpress/beitraege-erstellen-bearbeiten.md)
 * [Seiten erstellen / bearbeiten](wordpress/seiten-erstellen-bearbeiten.md)
 
-## MailCow
+## E-Mails <a id="email"></a>
 
-* [Webmail](mailcow/webmail.md)
-* [Cloud](mailcow/cloud.md)
-* [Desktop-Mail-Programm](mailcow/desktop-mail-programm.md)
-* [Manuelle Einstellungen](mailcow/manuelle-einstellungen.md)
+* [Webmail](email/webmail.md)
+* [Cloud](email/cloud.md)
+* [Desktop-Mail-Programm](email/desktop-mail-programm.md)
+* [Manuelle Einstellungen](email/manuelle-einstellungen.md)
 
